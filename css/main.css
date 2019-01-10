@@ -1,0 +1,217 @@
+body {
+    max-width:100%;
+    overflow-x:hidden;
+    max-height: 10.2in;
+}
+.banner {
+    position: absolute;
+    left: 30%;
+    top: 5%;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    top: 3.2in;
+    background-color: #FFD0BC;
+    width: auto;
+    letter-spacing: 1.5px;
+    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 20px;   
+    max-width: 100%;
+}
+.navbar a:hover{
+    background-color: #b1b9cc;
+}
+li {
+    margin-inline-start: 8%;
+}
+.navbar a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 80px;
+    text-decoration: none;
+    float: left;
+    text-align: center;
+}
+.socialbuttons{
+    position: relative;
+    top: 10in;
+    left: 40%;
+    margin: 5px 10px;
+}
+
+/** HOME SECTION **/
+.aboutPicture{
+    position: relative;
+    left: 42%;
+    top: 3in;
+}
+.text{
+    position: relative;
+    left: 30%;
+    top: 3.4in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 45%;
+    max-height: 100%;
+    overflow-x: hidden;
+}
+.experienceicon1 {
+    position: relative;
+    left: 13%;
+    top: 3in;
+}
+.experience1 {
+    position: relative;
+    top: 2.5in;
+    left: 17%;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 30%;
+    line-height: 1.8;
+}
+.experienceicon2 {
+    position: relative;
+    left: 55%;
+    top: -1.5in;
+}
+.experience2 {
+    position: relative;
+    top: -2.1in;
+    left: 59%;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 30%;
+    line-height: 1.8;
+}
+
+/** RESUME SECTION **/
+.resume {
+    position: relative;
+    top: 3in;
+    left: 5%;
+}
+
+/** ABOUT SECTION **/
+.box {
+    position: relative;
+    left: 13%;
+    top: 3.2in;
+}
+.education {
+    position: relative;
+    left: 16.5%;
+    top: 2.8in;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+.clipboard {
+    position: relative;
+    left: 13%;
+    top: 3.2in;
+}
+.courses {
+    position: relative;
+    left: 16.5%;
+    top: 2.8in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 30%;
+}
+.lightbulb {
+    position: relative;
+    left: 13%;
+    top: 3.2in;
+}
+.skills {
+    position: relative;
+    left: 16.5%;
+    top: 2.8in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 30%;
+}
+.unicorn {
+    position: relative;
+    left: 54%;
+    top: -2.6in;
+}
+.activities{
+    position: relative;
+    left: 57.5%;
+    top: -3in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+#eventchair{
+    position: relative;
+    left: 8%;
+}
+
+/* PROJECTS SECTION */
+.team1 {
+    position: relative;
+    left: 13%;
+    top: 3.2in;
+}
+.busysmithie {
+    position: relative;
+    left: 16.5%;
+    top: 2.8in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 30%;
+}
+.alone1 {
+    position: relative;
+    left: 13%;
+    top: 3.2in;
+}
+.p2 {
+    position: relative;
+    left: 16.5%;
+    top: 2.6in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 30%;
+}
+.team2 {
+    position: relative;
+    left: 54%;
+    top: -3.37in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+.gyst {
+    position: relative;
+    left: 57.5%;
+    top: -3.86in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+.alone2 {
+    position: relative;
+    left: 54%;
+    top: -3.7in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+.fp {
+    position: relative;
+    left: 57.5%;
+    top: -4.1in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+.team3 {
+    position: relative;
+    left: 54%;
+    top: -4in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+.graphgui {
+    position: relative;
+    left: 57.5%;
+    top: -4.4in;
+    font-family: 'Lucida Console', Monaco, monospace;
+    max-width: 35%;
+}
+
+
